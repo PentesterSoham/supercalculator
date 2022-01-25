@@ -1,0 +1,21 @@
+# supercalculator
+This is a program which i have created in c laguage.(calculator)
+
+
+#uses 
+I am considering that in your system nessary need is fullfilled to run c programe...
+If not then watch any of the two video
+1:-  https://youtu.be/Nl2t4ujDLJM     (language spoken in this video is english)
+2:-  https://youtu.be/-V_uWOBUe24     (language spoken in this video is hindi)
+
+#Steps for compiling the supercalculator file (windows + linux)
+
+# first move to that directory where you have store the supercalculator.c file
+``````````````````````````````````````
+gcc supcalculator.c -o supercalculator
+``````````````````````````````````````
+# run the above command for compiling the file and create respective executable file(windows + linux)..
+after now you can run that executable file just double click it or run this command in your terminal "./supercalculator.<extention>"   
+extention may be varries by the opreating system
+if you are using windows then the output file may come in "supercalculator.exe"
+if you are using Linux then the output file may come in "supercalculator.elf"  (extention may be varies by the distrubution..)
